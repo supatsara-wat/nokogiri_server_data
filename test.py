@@ -3,7 +3,7 @@ import json
 import os
 
 # Github personal access token
-token = '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'
+token = ''
 
 # GraphQL API endpoint
 url = 'https://api.github.com/graphql'
